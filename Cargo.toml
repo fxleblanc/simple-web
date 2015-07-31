@@ -1,0 +1,16 @@
+[package]
+name = "simple-web"
+version = "0.1.0"
+authors = ["Félix Leblanc <felix.leblanc1305@gmail.com>"]
+
+[dependencies.iron]
+version = "*"
+
+[dependencies.time]
+version = "0.1"
+
+[dependencies.router]
+version = "0.0.10"
+
+[dependencies.mount]
+version = "0.0.7"
